@@ -1,0 +1,36 @@
+.root {
+    -fx-font-size: 14px;
+}
+
+.text-field {
+    -fx-font-size: 16px;
+}
+
+.text {
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-min-width: 140px;
+}
+
+.button > .text {
+    -fx-font-size: 19px;
+}
+
+.topPanel {
+    -fx-padding: 20px;
+}
+
+.padding-10 {
+    -fx-padding: 10px;
+}
+
+.padding-10 > * {
+    -fx-padding: 5px;
+}
+
+.status {
+    -fx-font-size: 28px;
+}
+
