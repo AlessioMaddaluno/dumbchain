@@ -1,0 +1,2 @@
+# dumbchain
+Minimal blockchain simulation
